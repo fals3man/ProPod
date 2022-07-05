@@ -15,4 +15,4 @@ Create and activate a Python virtual environment for your operating system and i
 ```bash
 (.venv) $ python -m pip install -r <path_to_requirements.txt>
 ```
-You can find the `requirements.txt` file in `requirements.txt`.
+You can find the requirements in `requirements.txt` file.
